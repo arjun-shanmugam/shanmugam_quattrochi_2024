@@ -2,9 +2,7 @@
 
 ## Setup
 1. Clone this GitHub repository to your local machine
-2. Create an empty directory called "data" in the repository on your local machine. Inside of this directory, create three directories: "raw", "intermediate", and "cleaned".
-3. Create an empty directory called "output" in the repository on your local machine. Inside of this directory, create two directories: "figures" and "tables".
-
+   
 ## Obtain Data
 1. Download [Census Tract Shapfiles](https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/4a8eb4fb3be44ed5a1eec28551b9f3b2/shapefile?layers=0)
 2. Download [Opportunity Insights Census Tract Characteristics](https://opportunityinsights.org/data). You will need to visit this link and then search for 
